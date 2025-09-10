@@ -19,11 +19,11 @@
       country: 'Test'
   card:
     - fullName: 'Administrator'
-      cardNum: 4716190207394368
+      cardNum: 47161902********
       expMonth: 2
       expYear: 2081
     - fullName: 'Administrator'
-      cardNum: 4024007105648108
+      cardNum: 40240071********
       expMonth: 4
       expYear: 2086
 -
@@ -55,7 +55,7 @@
       country: 'United Federation of Planets'
   card:
     - fullName: 'Jim'
-      cardNum: 5107891722278705
+      cardNum: 51078917********
       expMonth: 11
       expYear: 2099
 -
@@ -79,13 +79,13 @@
       country: 'Planet Earth'
   card:
     - fullName: 'Bender'
-      cardNum: 4716943969046208
+      cardNum: 47169439********
       expMonth: 2
       expYear: 2081
 -
-  email: bjoern.kimminich@gmail.com
+  email: bjoern.kimmin*************
   username: bkimminich
-  password: 'bW9jLmxpYW1nQGhjaW5pbW1pay5ucmVvamI='
+  password: 'bW9jLmxpYW1nQGhjaW******************'
   customDomain: true
   key: bjoernGoogle
   role: 'admin'
@@ -99,12 +99,12 @@
       country: 'Germany'
   card:
     - fullName: 'Bjoern Kimminich'
-      cardNum: 4815205605542754
+      cardNum: 48152056********
       expMonth: 12
       expYear: 2092
 -
   email: ciso
-  password: 'mDLx?94T~1CfVfZMzw@sJ9f?s3L6lbMqE70FfI8^54jbNikY5fymx7c!YbJb'
+  password: 'mDLx?94T~1CfVfZMzw@sJ9f?s3L6lb******************************'
   key: ciso
   role: 'deluxe'
   securityQuestion:
@@ -112,7 +112,7 @@
     answer: 'Brd?j8sEMziOvvBf§Be?jFZ77H?hgm'
 -
   email: support
-  password: 'J6aVjTgOpRs@?5l!Zkq2AYnCE@RF$P'
+  password: 'J6aVjTgOpRs@?5l***************'
   key: support
   role: 'admin'
   securityQuestion:
@@ -137,7 +137,7 @@
     answer: 'I even shared my pizza bagels with you!'
 -
   email: J12934
-  password: '0Y8rMnww$*9VFYE§59-!Fg1L6t&6lB'
+  password: '0Y8rMnw********§59-!Fg1L6t&6lB'
   key: jannik
   role: 'admin'
   securityQuestion:
@@ -172,7 +172,7 @@
     id: 9
     answer: 'West-2082' # http://www.alte-postleitzahlen.de/uetersen
 -
-  email: bjoern@owasp.org
+  email: bjoern@o********
   password: 'kitten lesser pooch karate buffoon indoors'
   customDomain: true
   key: bjoernOwasp
@@ -228,19 +228,19 @@
       country: 'United Fakedom'
   card:
     - fullName: 'Tim Tester'
-      cardNum: 1234567812345678
+      cardNum: 12345678********
       expMonth: 12
       expYear: 2099
 -
   email: john
   username: j0hNny
-  password: 'y&x5Z#f6W532Z4445#Ae2HkwZVyDb7&oCUaDzFU'
+  password: 'y&x5Z#f6W532Z4445#A********************'
   key: john
   role: 'customer'
 -
   email: emma
   username: E=ma²
-  password: 'y&x5Z#f6W532ZUf$q3DsdgfgfgxxUsvoCUaDzFU'
+  password: 'y&x5Z#f6W532ZUf$q3D********************'
   key: emma
   role: 'customer'
 -
